@@ -1,0 +1,51 @@
+nav ul{
+padding: 0px;
+list-style-type: none;
+margin-top: 0px;
+
+}
+nav li{
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    width: 100px;
+    height: 40;
+    border-right-style: solid;
+}
+
+nav li a{
+    text-decoration: none;
+    color: azure;
+}
+main div {
+    display: block;
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; position: 100px; widows: 200px; color:white;
+    width: 400px;
+}
+
+footer p{
+    color: ghostwhite;
+    
+}
+.contact form{
+    width: 85%;
+    max-width: 600px;
+    background-color: #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+transform: translate(-50%,-50%);
+padding: 30px 40px;
+box-sizing: border-box;
+border-radius: 8px
+text-align: center;
+box-shadow: 0 0 20px #000000b3;
+
+
+}
+body{
+    background-size: cover;
+margin: 0px;
+padding: 0%;
+
+}
